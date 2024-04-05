@@ -1,0 +1,15 @@
+C:\Users\ca.r214.15\Desktop\taskUni\bin\Debug\net6.0\taskUni.exe
+C:\Users\ca.r214.15\Desktop\taskUni\bin\Debug\net6.0\taskUni.deps.json
+C:\Users\ca.r214.15\Desktop\taskUni\bin\Debug\net6.0\taskUni.runtimeconfig.json
+C:\Users\ca.r214.15\Desktop\taskUni\bin\Debug\net6.0\taskUni.dll
+C:\Users\ca.r214.15\Desktop\taskUni\bin\Debug\net6.0\taskUni.pdb
+C:\Users\ca.r214.15\Desktop\taskUni\obj\Debug\net6.0\taskUni.csproj.AssemblyReference.cache
+C:\Users\ca.r214.15\Desktop\taskUni\obj\Debug\net6.0\taskUni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r214.15\Desktop\taskUni\obj\Debug\net6.0\taskUni.AssemblyInfoInputs.cache
+C:\Users\ca.r214.15\Desktop\taskUni\obj\Debug\net6.0\taskUni.AssemblyInfo.cs
+C:\Users\ca.r214.15\Desktop\taskUni\obj\Debug\net6.0\taskUni.csproj.CoreCompileInputs.cache
+C:\Users\ca.r214.15\Desktop\taskUni\obj\Debug\net6.0\taskUni.dll
+C:\Users\ca.r214.15\Desktop\taskUni\obj\Debug\net6.0\refint\taskUni.dll
+C:\Users\ca.r214.15\Desktop\taskUni\obj\Debug\net6.0\taskUni.pdb
+C:\Users\ca.r214.15\Desktop\taskUni\obj\Debug\net6.0\taskUni.genruntimeconfig.cache
+C:\Users\ca.r214.15\Desktop\taskUni\obj\Debug\net6.0\ref\taskUni.dll
